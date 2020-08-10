@@ -1,6 +1,6 @@
 # 👋 Hello World, I’m Rirtak
 
-![Cover](https://github.com/rirtakmanna/rirtakmanna/blob/master/Cover.png)
+![Cover](https://github.com/rirtakmanna/rirtakmanna/blob/master/Cover.gif)
 
 I'm a web designer and developer. I love creating websites that resonate and connect with the target audiences. I spend my entire day, practically every day, experimenting with HTML, CSS, JavaScript, React, etc. It's my mission is to design the digital world in a new way.
 <br>
